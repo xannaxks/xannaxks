@@ -27,10 +27,10 @@
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=2d79c7">
 </a>
   <a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=css&svgfill=8ed5fa">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=8ed5fa">
 </a>
  <a href="https://github.com/harish-sethuraman/readme-components">
- <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html&svgfill=659b60">
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=HTML5&svgfill=659b60">
 </a>
 <a href="https://github.com/harish-sethuraman/readme-components">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=django&svgfill=df5c43">  
@@ -44,10 +44,10 @@
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=f06629">
 </a> -->
 <a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=php&svgfill=f6df1c">
 </a>
 <a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=028dd1">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=laravel&svgfill=028dd1">
 </a>
 <a href="https://github.com/harish-sethuraman/readme-components">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
