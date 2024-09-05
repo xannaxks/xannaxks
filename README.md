@@ -1,4 +1,4 @@
-# Hi, I am Maksat
+# 👋Hi, I am Maksat
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Computer+science+student)](https://git.io/typing-svg)
 
