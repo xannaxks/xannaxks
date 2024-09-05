@@ -32,13 +32,13 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/atikij" target="_blank">
+<a href="https://github.com/xannaxks" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://gitlab.com/karxar" target="_blank">
+<a href="https://gitlab.com/xannaxks" target="_blank">
 <img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
 </a> 
-<a href="https://t.me/daun2jj" target="_blank" align="center">
+<a href="https://t.me/xannaxks" align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
 </a>
 </div>  
@@ -47,7 +47,7 @@
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=atikij&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=xannaxks&&style=flat-square" align="center" />
 </div>  
   
 
