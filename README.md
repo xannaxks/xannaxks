@@ -4,7 +4,7 @@
 
 * 🌍  I'm based in South Korea, Busan
 * 🖥️  See my portfolio at [my site](http://xannaxks.github.io/) (In development)
-* ⚡  Write code on Visual Studio Code
+* ⚡  JetBrains IDE
 
   
 
