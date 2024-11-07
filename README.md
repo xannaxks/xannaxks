@@ -32,6 +32,8 @@
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://www.rabbitmq.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rabbitmq-icon.svg" alt="RabbitMQ" height="50" /></a>
 <a href="https://isocpp.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/640px-ISO_C%2B%2B_Logo.svg.png" alt="C++" height="50" /></a>
+<a href="https://www.django-rest-framework.org/" target="_blank"><img style="margin: 10px" src="https://www.django-rest-framework.org/img/logo.png" alt="DRF" height="50" /></a>
+<a href="https://docs.celeryq.dev/en/stable/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Celery_logo.png" alt="Celery" height="50" /></a>
 </div>
 
 <br /><br/>
