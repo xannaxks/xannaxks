@@ -4,7 +4,7 @@
 
 * 🌍  I'm based in Kyrgyzstan, Bishkek
 * 🖥️  See my portfolio at [my site](http://xannaxks.github.io/) (In development)
-* ⚡  JetBrains IDE
+* ⚡  IZhO 2022/23, info(1)cup 2022/23, EJOI 2021/22, RMI 2022, BOI 2023, ISIJ 2021/22, Qualify IOI 2019-2024
 
   
 
