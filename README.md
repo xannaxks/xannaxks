@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Computer+science+student)](https://git.io/typing-svg)
 
-* 🌍  I'm based in South Korea, Busan
+* 🌍  I'm based in Kyrgyzstan, Bishkek
 * 🖥️  See my portfolio at [my site](http://xannaxks.github.io/) (In development)
 * ⚡  JetBrains IDE
 
